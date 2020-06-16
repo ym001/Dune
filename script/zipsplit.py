@@ -1,5 +1,6 @@
 #file_='amazon_review_full.zip'
-file_='yelp_review_polarity.zip'
+#file_='yelp_review_polarity.zip'
+file_='eRisk_dep.zip'
 dir_='../datasets/'
 outfile = dir_+file_
 
